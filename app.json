@@ -1,0 +1,10 @@
+{
+  "name": "Clever Device - Domain",
+  "description": "Specialized Domain for Clever Device's Salesforce account",
+  "repository": "https://github.com/salesforceidentity/MyDomain-Sample", 
+  "keywords": ["CleverDevice"],
+  "success_url": "/",
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-php"
+  }
+}
